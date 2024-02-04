@@ -9,8 +9,8 @@ This repository contains a Python script for automating email tasks.
     *`your_smtp_server`
     * 587
     * `your_sender_email@example.com`
- with your SMTP server details and sender email.
- This script prompts the user for the recipient's email, subject, and body, and sends the email using the provided SMTP server.
+ - With your SMTP server details and sender email.
+ - This script prompts the user for the recipient's email, subject, and body, and sends the email using the provided SMTP server.
 
 ## Note
 
